@@ -1,0 +1,6 @@
+c:\Users\DeniseMichelle\Documents\Visual Studio 2015\Projects\BarebonesMVC\BarebonesMVC\bin\BarebonesMVC.dll.config
+c:\Users\DeniseMichelle\Documents\Visual Studio 2015\Projects\BarebonesMVC\BarebonesMVC\bin\BarebonesMVC.dll
+c:\Users\DeniseMichelle\Documents\Visual Studio 2015\Projects\BarebonesMVC\BarebonesMVC\bin\BarebonesMVC.pdb
+c:\Users\DeniseMichelle\Documents\Visual Studio 2015\Projects\BarebonesMVC\BarebonesMVC\obj\Debug\BarebonesMVC.csprojResolveAssemblyReference.cache
+c:\Users\DeniseMichelle\Documents\Visual Studio 2015\Projects\BarebonesMVC\BarebonesMVC\obj\Debug\BarebonesMVC.dll
+c:\Users\DeniseMichelle\Documents\Visual Studio 2015\Projects\BarebonesMVC\BarebonesMVC\obj\Debug\BarebonesMVC.pdb
