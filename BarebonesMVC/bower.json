@@ -1,0 +1,10 @@
+{
+    "name": "BarebonesMVC",
+    "version": "0.0.1",
+    "dependencies": {
+        "jquery": "1.11.3",
+		"jquery-validation": "latest",
+		"jquery-validation-unobtrusive": "latest"
+    },
+    "private": "true"
+}
