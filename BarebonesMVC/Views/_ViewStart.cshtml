@@ -1,0 +1,16 @@
+﻿@**why we create this file:***@
+@**
+    For group of views that all use the same layout, this can get a bit redundant and harder to maintain.
+    The _ViewStart.cshtml page can be used to remove this redundancy. The code within this file
+    is executed before the code in any view placed in the same directory. This fi le is also recursively applied to any view within a subdirectory.
+    When we create a default ASP.NET MVC project, we find there is already a _ViewStart.cshtml fi le in the Views directory. It specifi es a default layout:
+    @{
+        <br>Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+    Because this code runs before any view, a view can override the Layout property and choose a different one. If a set of views shares common settings, the _ViewStart.cshtml file is a useful place to consolidate these common view settings.
+    If any view needs to override any of the common settings, the view can set those values to another value.
+    @**source: http://www.dotnetfunda.com/interviews/show/7764/what-is-viewstart-in-mvc**@
+**@
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
