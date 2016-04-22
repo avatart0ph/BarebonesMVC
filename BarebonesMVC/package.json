@@ -8,6 +8,10 @@
     "grunt-contrib-concat": "*",
     "grunt-contrib-uglify": "*",
     "grunt-contrib-watch": "*",
-    "grunt-contrib-copy": "*"
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-postcss": "*",
+    "autoprefixer": "*",
+     "cssnano": "*"
   }
 }

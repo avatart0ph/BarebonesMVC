@@ -1,3 +1,4 @@
 ﻿$(function () {
-    alert('welcome to barebones mvc2');
+    alert('hello world');
+    
 });
