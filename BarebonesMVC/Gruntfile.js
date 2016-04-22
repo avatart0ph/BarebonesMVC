@@ -28,9 +28,6 @@ module.exports = function(grunt){
 	    },
 	    // Task - Compile SASS
 	    sass: {
-	        options: {
-	            sourceMap: false
-	        },
 	        dev: {
 	            files: {
 	                'css/barebones-styles.css': 'Sass/barebones-styles.scss'
