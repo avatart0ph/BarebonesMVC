@@ -1,11 +1,13 @@
 {
-    "name": "BarebonesMVC",
-    "version": "0.0.1",
-    "private": true,
-    "devDependencies": {
-        "grunt": "~0.4.5",
-		"matchdep": "*",
-		"grunt-contrib-concat": "*",
-		"grunt-contrib-uglify": "*"
-    }
+  "name": "BarebonesMVC",
+  "version": "0.0.2",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "matchdep": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-copy": "*"
+  }
 }

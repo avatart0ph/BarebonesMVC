@@ -3,7 +3,22 @@ module.exports = function(grunt){
 	require('matchdep').filterDev('grunt-*', './package.json').forEach(grunt.loadNpmTasks);
 
 	grunt.initConfig({
-        pkg: grunt.file.readJSON('package.json'),
+	    pkg: grunt.file.readJSON('package.json'),
+
+	    // Grunt Watch
+	    watch: {
+	        options: {
+	            reload: true,
+	            atBegin: true,
+	            livereload: 999999
+	        },
+	        js: {
+	            files: [
+        			'Scripts/*.js'
+	            ],
+	            tasks: ['copy:main', 'uglify:main']
+	        }
+	    },
       
         // Task - Merge Scripts
         concat: {
@@ -16,6 +31,7 @@ module.exports = function(grunt){
 				],
 	            dest: 'js/barebones-vendor.js',
 	            nonull: true
+
 	        }
 		},
 		// Task - Minify JS
@@ -27,8 +43,23 @@ module.exports = function(grunt){
 		        options: {
 		            preserveComments: false
 		        }
+		    },
+		    main: {
+		        files: {
+		            'js/main.min.js': ['js/main.min.js']
+		        },
+		        options: {
+		            preserveComments: false
+		        }
 		    }
-		}
+		},
+	    // Task - Copy over Custom Scripts
+	    copy: {
+	        main: {
+	            src: 'Scripts/main.js',
+	            dest: 'js/main.min.js'
+	        }			
+	    }
     });
 
     grunt.registerTask('default', []);    
