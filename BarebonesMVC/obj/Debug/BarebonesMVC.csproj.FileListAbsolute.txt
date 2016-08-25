@@ -61,3 +61,15 @@ C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMV
 C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\obj\Debug\BarebonesMVC.csprojResolveAssemblyReference.cache
 C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\obj\Debug\BarebonesMVC.dll
 C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\obj\Debug\BarebonesMVC.pdb
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\Castle.Core.dll
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\Castle.Windsor.dll
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\Newtonsoft.Json.dll
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\System.Web.Http.dll
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\Castle.Core.xml
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\Castle.Windsor.xml
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\Newtonsoft.Json.xml
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\System.Web.Http.xml
+C:\Users\DeniseMichelle\Documents\GitHub\BarebonesMvc-2\BarebonesMVC\BarebonesMVC\bin\System.Web.Http.WebHost.xml
